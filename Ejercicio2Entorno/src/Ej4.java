@@ -18,7 +18,7 @@ public class Ej4 {
 		comprobarCircular(num1,num2);
 
 	}
-
+//MODIFICACION PARA EL EJERCICIO2 DEL COMPAÑERO
 	private static void comprobarCircular(int[] num1, int[] num2) {
 
 		int posicion = 0;
