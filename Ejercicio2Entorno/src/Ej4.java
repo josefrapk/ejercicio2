@@ -19,6 +19,7 @@ public class Ej4 {
 
 	}
 
+//COMENTARIO PARA EL EJERCICIO 2 MODIFICAR CODIGO DEL COMPAÑERO
 	private static void comprobarCircular(int[] num1, int[] num2) {
 
 		int posicion = 0;
