@@ -21,6 +21,8 @@ public class Ej4 {
 		//segundo comentario marina borro el primero
 
 	}
+	
+	//COMENTARIO DE PRUEBA EJERCICIO2....
 
 	private static void comprobarCircular(int[] num1, int[] num2) {
 
