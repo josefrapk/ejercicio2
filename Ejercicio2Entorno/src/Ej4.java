@@ -19,7 +19,7 @@ public class Ej4 {
 
 	}
 	
-	//COMENTARIO DE PRUEBA EJERCICIO2
+	//COMENTARIO DE PRUEBA EJERCICIO2....
 
 	private static void comprobarCircular(int[] num1, int[] num2) {
 
