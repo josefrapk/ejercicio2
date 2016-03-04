@@ -25,7 +25,7 @@ public class Ej4 {
 	}
 	
 	//COMENTARIO DE PRUEBA EJERCICIO2....
-	//puta vida tete
+	//puta vida tete2
 
 	private static void comprobarCircular(int[] num1, int[] num2) {
 
