@@ -16,11 +16,7 @@ public class Ej4 {
 
 
 		comprobarCircular(num1,num2);
-		//comentario marina
-		
-		//segundo comentario marina
-		
-		//segundo comentario marina borro el primero
+	
 		
 		//comentario desde mi casa jeje
 
